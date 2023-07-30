@@ -34,5 +34,5 @@ github
 
    
 <picture>
- <img alt="Stefan Gruber" src="https://avatars.githubusercontent.com/u/90160521?s=400&u=87f3ce1735aafce5b91f235b1687522cd3b9834c&v=4>
-</picture>
+ <img alt="Stefan Gruber" src="https://www.facebook.com/photo.php?fbid=9574548015953401&set=pb.100001948931051.-2207520000.&type=3)
+    </picture>
