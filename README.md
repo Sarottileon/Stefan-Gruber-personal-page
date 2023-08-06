@@ -1,6 +1,6 @@
 # Stefan Gruber
 
-<img Stefan Gruber (https://www.facebook.com/photo.php?fbid=9574548015953401&set=pb.100001948931051.-2207520000.&type=3.jpg)
+<img src=https://www.facebook.com/photo.php?fbid=9574548015953401&set=pb.100001948931051.-2207520000.&type=3.jpg/>
    
 ## About me
 
