@@ -28,9 +28,7 @@ css
 
 javscript
 
-git
 
-github
 
 
 
