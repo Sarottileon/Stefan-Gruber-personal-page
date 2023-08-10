@@ -1,7 +1,5 @@
 # Stefan Gruber
 
-<img src=
-
    
 ## About me
 
