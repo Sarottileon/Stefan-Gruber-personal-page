@@ -1,6 +1,7 @@
 # Stefan Gruber
 
-<img src=
+<img src=![Uploading image.png…]()
+
    
 ## About me
 
