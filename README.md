@@ -12,7 +12,7 @@ Now it's time for changing. I decided to work the next years as web developer. T
 
 german
 
-spanish
+spanish (latin)
 
 english
 
