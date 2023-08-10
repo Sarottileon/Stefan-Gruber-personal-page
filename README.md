@@ -30,6 +30,18 @@ css
 javscript
 
 
+## Private interests
+
+opera, theatre, music
+
+spanish language, latin america
+
+motobike
+
+music (doublebass, tuba, guitars)
+
+my dog "Schröder"
+
 
 
 
