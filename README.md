@@ -36,6 +36,9 @@ opera, theatre, music
 
 spanish language, latin america
 
+cooking, baking
+
+
 motobike
 
 [
@@ -44,6 +47,7 @@ motobike
 music (doublebass, tuba, guitars)
 
 my dog "Schröder"
+
 
 
 
